@@ -1,6 +1,6 @@
 # K-Means Clustering
 
-We're going to talk about k-means clustering and this is a unsupervised learning technique where you have a collection of stuff that you want to group together into various clusters. Maybe it's movie genres or demographics of people. Who knows, but it's actually a pretty simple idea. So let's go and see how it works. 
+We're going to talk about k-means clustering and *this is a unsupervised learning technique where you have a collection of stuff that you want to group together into various clusters.* Maybe it's movie genres or demographics of people. Who knows, but it's actually a pretty simple idea. So let's go and see how it works. 
 All right, let's talk about k-means clustering, very common, technique in machine learning where you just try to take a bunch of data and find interesting clusters of things, just based on the attributes of the data itself. Sounds fancy, but it's actually pretty simple. 
 
 **K-Means Clustering**
